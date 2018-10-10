@@ -1,3 +1,13 @@
+## codeship/go-cacerts is being "sunsetted"
+
+**Warning consumers!**
+
+This repo is no longer maintained and will be archived on November 10th, 2018.
+
+We are sorry for any inconvenience this may cause.
+
+## Original Readme
+
 [![API Documentation](http://img.shields.io/badge/api-Godoc-blue.svg?style=flat-square)](https://godoc.org/github.com/peter-edge/go-cacerts)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/peter-edge/go-cacerts/blob/master/LICENSE)
 
